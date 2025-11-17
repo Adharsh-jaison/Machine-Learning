@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![ML Banner](https://via.placeholder.com/800x200/4A90E2/FFFFFF?text=Welcome+to+Machine+Learning+✨)
+
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://python.org)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.2%2B-orange?logo=scikit-learn)](https://scikit-learn.org)
@@ -127,7 +127,6 @@ Industries Using ML: Healthcare, Finance, Retail, Tech, Automotive
 
 ### **Python ML Stack**
 
-![Python Tools](https://via.placeholder.com/700x200/2C3E50/FFFFFF?text=Python+%7C+NumPy+%7C+Pandas+%7C+Scikit-learn+%7C+Matplotlib)
 
 </div>
 
@@ -468,3 +467,4 @@ If you found this guide helpful, please give it a star! 🌟
 <p align="center">
   Made for ❤️ Beginners
 </p>
+
